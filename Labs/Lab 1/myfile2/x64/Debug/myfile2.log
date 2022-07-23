@@ -1,0 +1,4 @@
+﻿  myfile2.cpp
+C:\Users\wxx9248\OneDrive - University of Ottawa\CSI 2372\Labs\Lab 1\Project\Lab 1\myfile2\myfile2.cpp(24,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxx9248\OneDrive - University of Ottawa\CSI 2372\Labs\Lab 1\Project\Lab 1\myfile2\myfile2.cpp(32,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  myfile2.vcxproj -> C:\Users\wxx9248\OneDrive - University of Ottawa\CSI 2372\Labs\Lab 1\Project\Lab 1\x64\Debug\myfile2.exe

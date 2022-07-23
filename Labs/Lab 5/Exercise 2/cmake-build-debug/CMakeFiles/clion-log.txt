@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "C:\Users\wxx9248\OneDrive - University of Ottawa\CSI 2372\Labs\Lab 5\Exercise 2"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/wxx9248/OneDrive - University of Ottawa/CSI 2372/Labs/Lab 5/Exercise 2/cmake-build-debug

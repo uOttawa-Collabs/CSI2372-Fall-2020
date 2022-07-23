@@ -1,0 +1,32 @@
+play1
+play2
+----Deck----
+C s B R b R b G b B R C s S B G S S S G C g G B S R G S S B B R S S B C S C b b B g s S S B G S B B S G g b C g G s B b b C C C b G s C B B C G s R C s B S R S b G 
+----Discard Pile----
+BCGG
+----Trading Area----
+CCg
+----Players----
+--Name: 
+play1
+--Coins
+0
+--Maxchains:
+3
+--NumChains:
+2
+Empty
+G 
+
+--Name: 
+play2
+--Coins
+0
+--Maxchains:
+3
+--NumChains:
+2
+s 
+C C 
+
+

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/wxx9248/OneDrive - University of Ottawa/CSI 2372/Labs/Lab 5/Exercise 2/Card.h
+iostream
+-
+cassert
+-
+string
+-
+
+C:/Users/wxx9248/OneDrive - University of Ottawa/CSI 2372/Labs/Lab 5/Exercise 2/CardsSet.h
+Card.h
+C:/Users/wxx9248/OneDrive - University of Ottawa/CSI 2372/Labs/Lab 5/Exercise 2/Card.h
+
+C:/Users/wxx9248/OneDrive - University of Ottawa/CSI 2372/Labs/Lab 5/Exercise 2/Player.h
+CardsSet.h
+C:/Users/wxx9248/OneDrive - University of Ottawa/CSI 2372/Labs/Lab 5/Exercise 2/CardsSet.h
+
+C:/Users/wxx9248/OneDrive - University of Ottawa/CSI 2372/Labs/Lab 5/Exercise 2/myFile.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+cassert
+-
+CardsSet.h
+C:/Users/wxx9248/OneDrive - University of Ottawa/CSI 2372/Labs/Lab 5/Exercise 2/CardsSet.h
+Player.h
+C:/Users/wxx9248/OneDrive - University of Ottawa/CSI 2372/Labs/Lab 5/Exercise 2/Player.h
+

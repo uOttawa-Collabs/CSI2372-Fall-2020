@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/wxx9248/OneDrive - University of Ottawa/CSI 2372/Labs/Lab 4/Exercise 1/myFile1.cpp
+iostream
+-
+myFile1a.h
+C:/Users/wxx9248/OneDrive - University of Ottawa/CSI 2372/Labs/Lab 4/Exercise 1/myFile1a.h
+myFile1b.h
+C:/Users/wxx9248/OneDrive - University of Ottawa/CSI 2372/Labs/Lab 4/Exercise 1/myFile1b.h
+
+C:/Users/wxx9248/OneDrive - University of Ottawa/CSI 2372/Labs/Lab 4/Exercise 1/myFile1a.h
+iostream
+-
+
+C:/Users/wxx9248/OneDrive - University of Ottawa/CSI 2372/Labs/Lab 4/Exercise 1/myFile1b.h
+iostream
+-
+

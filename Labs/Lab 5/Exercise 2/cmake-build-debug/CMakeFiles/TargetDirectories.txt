@@ -1,0 +1,3 @@
+C:/Users/wxx9248/OneDrive - University of Ottawa/CSI 2372/Labs/Lab 5/Exercise 2/cmake-build-debug/CMakeFiles/Exercise_2.dir
+C:/Users/wxx9248/OneDrive - University of Ottawa/CSI 2372/Labs/Lab 5/Exercise 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wxx9248/OneDrive - University of Ottawa/CSI 2372/Labs/Lab 5/Exercise 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
